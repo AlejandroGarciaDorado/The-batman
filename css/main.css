@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+
+/* Estilos asociados al encabezado */
+
+#header {
+    /* Propiedad que permite alterar la altura */
+    /* La unidad vh es la altura del navegador y la unidad vw es la anchura */
+    height: 50vh;
+    background-color: black;
+}
