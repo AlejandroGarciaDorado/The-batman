@@ -37,6 +37,7 @@ body {
 /* Diseño Responsive*/
 
 @media only screen and (max-width: 800px) {
+    /* Reglas */
     #header h1 {
         padding: 0 1%;
         font-size: 40px;
