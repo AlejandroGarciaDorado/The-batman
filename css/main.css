@@ -45,6 +45,13 @@ img {
     width: 100%;
 }
 
+footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
 #spoiler {
     font-family: 'BhuTuka Expanded One', cursive;
 }
