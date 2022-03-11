@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&family=Roboto+Condensed:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Roboto+Condensed:wght@300&display=swap');
 body {
     margin: 0;
+    font-family: 'Quicksand', sans-serif;
 }
 
 
@@ -31,6 +34,15 @@ body {
 
 #main h1 {
     font-size: 40px;
+}
+
+iframe {
+    width: 100%;
+    height: 600px;
+}
+
+#spoiler {
+    font-family: 'BhuTuka Expanded One', cursive;
 }
 
 
