@@ -41,6 +41,10 @@ iframe {
     height: 600px;
 }
 
+img {
+    width: 100%;
+}
+
 #spoiler {
     font-family: 'BhuTuka Expanded One', cursive;
 }
