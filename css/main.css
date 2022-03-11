@@ -79,6 +79,7 @@ a {
     #main {
         padding-left: 1%;
         padding-right: 1%;
+        height: 400px;
     }
     #main p {
         font-size: 16px;
